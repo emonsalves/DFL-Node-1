@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "bolt",
+        "edad": "1 año",
+        "animal": "perro",
+        "color": "gris",
+        "enfermedad": "otitis"
+    },
+    {
+        "nombre": "bolt",
+        "edad": "1 año",
+        "animal": "perro",
+        "color": "gris",
+        "enfermedad": "otitis"
+    },
+    {
+        "nombre": "bolt",
+        "edad": "1 año",
+        "animal": "perro",
+        "color": "gris",
+        "enfermedad": "otitis"
+    },
+    {
+        "nombre": "bolt",
+        "edad": "1 año",
+        "animal": "perro",
+        "color": "gris",
+        "enfermedad": "otitis"
+    },
+    {
+        "nombre": "taz",
+        "edad": "2 años",
+        "animal": "perro",
+        "color": "cafe",
+        "enfermedad": "fractura"
+    },
+    {
+        "nombre": "taz",
+        "edad": "2 años",
+        "animal": "perro",
+        "color": "cafe",
+        "enfermedad": "fractura"
+    },
+    {
+        "nombre": "kira",
+        "edad": "no informado",
+        "animal": "no informado",
+        "color": "no informado",
+        "enfermedad": "no informado"
+    }
+]

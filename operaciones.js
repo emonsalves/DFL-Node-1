@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const registrar = (nombre, edad, tipo, color, diagnostico) => {
+const registrar = (nombre, edad = "no informado", tipo = "no informado", color = "no informado", diagnostico = "no informado") => {
     const file = fs.readFileSync(`citas.json`, 'utf8')
     const data = JSON.parse(file)
 
